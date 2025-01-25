@@ -1,6 +1,5 @@
 # Dashboard Movies Assignment Project
-
-
+<img width="1512" alt="overview-page-ss" src="https://github.com/user-attachments/assets/ad368c13-572e-4813-a79b-18c488b9d566" />
 
 ## Tech Stack
 
